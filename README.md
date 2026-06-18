@@ -266,8 +266,3 @@ Ejemplo de salida esperada:
 
 Las contribuciones son bienvenidas. Por favor abre un *issue* primero para discutir los cambios que deseas realizar.
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
